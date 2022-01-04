@@ -1,0 +1,40 @@
+body{
+    background-image:linear-gradient(90deg,rgba(225, 51, 51, 0.4),rgba(0,0,166,0.3)),url('https://mea.gov.in/images/14in.jpg');
+    text-align: center;
+    color:green;
+}
+
+hr{
+    height:5px;
+    background-color:red;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+}
+
+p{
+    text-align: justify;
+    font-weight:400;
+    text-indent:40px;
+    color:light red;
+    font-size:x-large;
+    border:solid blue5px;
+    width:100%;
+    background-color: lightgreen;
+    border-radius:15px 0px;
+    
+}
+
+h2{
+    text-decoration:underline;
+    text-align: center;
+    color:orange;
+    font-family:monospace;
+}
+
+img{
+    width:500px;
+    height:500px
+}

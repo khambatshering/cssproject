@@ -1,0 +1,60 @@
+body{
+    text-align:center;
+    color:black;
+    background-image:linear-gradient(90deg,rgba(205,51,51,0.4),rgba(0,0,166,0.3)),url('https://c1.staticflickr.com/6/5609/31247752140_38b6846999_b.jpg');
+}
+
+nav{
+    height:30px;
+    font-weight:900;
+    width: 100%;
+    padding:60px;
+    background:yellowgreen;
+}
+
+nav img{
+    height:100px;
+    position: absolute;
+    left: 12px;
+    bottom: 100px;
+    top:40px;
+    border-radius:100%;
+    width:120px;
+
+    
+}
+nav a{
+    width: 100px;
+    align-items: center;
+    text-decoration: none;
+    padding:30px;
+
+}
+
+.dzong{
+    height:400px;
+    width:100%;
+    background-color:white;
+}
+
+.paragraph{
+    height:400px;
+    font-weight:700;
+    font-family:cursive;
+    width:69%;
+    background-image:url('https://www.earthboundfarm.com/wp-content/uploads/2020/06/EBF-blog-header-1.png');
+    position:relative;
+}
+.photo{
+    height:500px;
+    width:45%;
+    position:absolute;
+    top:178px;
+    left:69%;
+}
+
+.photo img{
+     width:100%;
+     height:400px;
+     top:130px;
+}

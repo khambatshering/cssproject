@@ -1,0 +1,59 @@
+body{
+    text-align:center;
+    color:black;
+    background-image:linear-gradient(90deg,rgba(205,51,51,0.4),rgba(0,0,166,0.3)),url('https://cdn.shopify.com/s/files/1/0552/7250/5525/articles/Simone-Thomas-Organic-Farm-Field_1200x.jpg?v=1624437722');
+    background-repeat:no-repeat;
+}
+
+nav{
+    height:20px;
+    font-weight:900;
+    width: 100%;
+    padding:60px;
+    background:yellowgreen;
+}
+
+nav img{
+    height:100px;
+    position: absolute;
+    left: 12px;
+    bottom: 100px;
+    top:40px;
+    border-radius:100%;
+    width:120px;
+
+    
+}
+nav a{
+    width: 100px;
+    align-items: center;
+    text-decoration: none;
+    padding:30px;
+
+}
+
+.farming{
+    height:400px;
+    width:100%;
+    background-color:white;
+}
+
+.paragraph{
+    height:400px;
+    width:69%;
+    background-image:url('https://www.earthboundfarm.com/wp-content/uploads/2020/06/EBF-blog-header-1.png');
+    position:relative;
+}
+.photo{
+    height:400px;
+    width:45%;
+    position:absolute;
+    top:167px;
+    left:69%;
+}
+
+.photo img{
+     width:100%;
+     height:400px;
+     top:130px;
+}
